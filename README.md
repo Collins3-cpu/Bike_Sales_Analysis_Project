@@ -1,8 +1,8 @@
 # Bike_Sales_Analysis_Project
 Excel-based exploratory data analysis and visualization of bike purchase behavior.
 This project analyzes a dataset of ~1,000 customers to uncover key factors influencing bike purchases. It includes data cleaning, feature engineering (age brackets), pivot tables, interactive slicers, and a comprehensive dashboard.
-📊 Project Overview
 
+📊 Project Overview
 Dataset: Customer demographics, income, education, occupation, commute distance, region, and bike purchase status.
 Tools Used: Microsoft Excel (Pivot Tables, Slicers, Charts, Dashboard).
 Goal: Identify customer segments most likely to purchase bikes and provide actionable business insights.
@@ -34,13 +34,6 @@ North America has the largest sample.
 Europe and the Pacific show distinct patterns.
 
 3. Commute Distance Impact (Strongest Predictor)
-Commute Distance No  Yes  Total  Purchase(%)
-0-1 Miles       171 207   378    55%
-2-5 Miles        67  95   162    59%
-1-2 Miles        93  83   176    47%
-5-10 Miles      120  77   197    39%
-10+ Miles        80  33   113    29%
-
 Insight: Customers with shorter commutes (0-5 miles) are significantly more likely to buy bikes.
 
 4. Other Insights from Pivots
