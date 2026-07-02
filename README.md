@@ -41,25 +41,38 @@ Occupation (e.g., Professional, Management) and Education level correlate with h
 Home ownership and the number of cars provide additional segmentation signals.
 
 🖼️ Dashboard Highlights
+
 The Dashboard sheet provides at-a-glance visuals:
 
 Overall purchase rate KPIs.
+
+
 Charts by Region, Age Bracket, Commute Distance, and Income bands.
+
 Interactive slicers for filtering (try Region + Age + Commute combinations).
+
 Pivot-driven insights on average income by purchase status.
 
 🔍 How to Use
 
 Open the Excel file.
+
 Go to the Dashboard sheet.
+
 Use the Slicers to filter dynamically.
+
 Explore the Pivot Table sheet for deeper cross-tabs.
+
 Review raw data and derived columns in the worksheet.
 
 💡 Recommendations
 
 Target Short Commute Customers: Focus marketing on urban/suburban areas with commutes under 5 miles.
+
 Middle-Aged Professionals: High-potential segment — tailor campaigns around income and lifestyle.
+
 Regional Strategies: Customize offers by region (e.g., higher income incentives in certain areas).
+
 Upsell Opportunities: Bundle bikes with accessories for higher-income or multi-car households.
+
 Further Analysis: Consider adding predictive modeling (e.g., in Python/R) using features like Income, Commute, Age, and Occupation.
